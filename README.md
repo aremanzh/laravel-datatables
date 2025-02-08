@@ -2,7 +2,8 @@
 
 1. php composer install
 2. npm install
-3. php artisan migrate
-4. php artisan migrate:fresh --seed
-5. composer run dev
-6. visit /peserta
+3. copy .env.example as .env
+4. php artisan migrate
+5. php artisan migrate:fresh --seed
+6. composer run dev
+7. visit /peserta
